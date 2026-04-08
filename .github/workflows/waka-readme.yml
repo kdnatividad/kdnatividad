@@ -14,3 +14,4 @@ jobs:
           SHOW_TITLE: true
           SHOW_TIME: true
           LANG_COUNT: 10
+          TIME_RANGE: last_7_days
