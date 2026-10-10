@@ -1,14 +1,12 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 01 October 2026 - To: 08 October 2026
+From: 02 October 2026 - To: 09 October 2026
 
-Other         4 hrs 39 mins         █████████████░░░░░░░░░░░░   51.83 %
-Image (svg)   1 hr 26 mins          ████░░░░░░░░░░░░░░░░░░░░░   16.15 %
-Markdown      1 hr 22 mins          ████░░░░░░░░░░░░░░░░░░░░░   15.35 %
-PHP           1 hr 7 mins           ███░░░░░░░░░░░░░░░░░░░░░░   12.54 %
-HTML          13 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.45 %
-TypeScript    9 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.68 %
+Other         2 hrs 51 mins         ████████████▒░░░░░░░░░░░░   48.97 %
+Image (svg)   1 hr 26 mins          ██████▒░░░░░░░░░░░░░░░░░░   24.87 %
+Markdown      1 hr 22 mins          ██████░░░░░░░░░░░░░░░░░░░   23.63 %
+TypeScript    8 mins                ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.54 %
 ```
 
 <!--END_SECTION:waka-->
